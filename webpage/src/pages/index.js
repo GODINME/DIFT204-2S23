@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`SAD ${siteConfig.title}`}
+      title={`DSA ${siteConfig.title}`}
       description="NBIT209/DIFT204 Data Structures and Algorithms <head />">
       <HomepageHeader />
       <main>
